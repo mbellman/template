@@ -9,11 +9,17 @@
 
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
 
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-        <script src="js/main.js"></script>
+        <script src="js/jquery.min.js"></script>
+        <script src="js/TweenMax.js"></script>
+        <script src="js/devices.js"></script>
+        <script src="js/assets.js"></script>
     </head>
 
     <body>
-    
+        <!-- Page content -->
+        <main></main>
+
+        <!-- Additional scripts -->
+        <script src="js/main.js"></script>
     </body>
 </html>
